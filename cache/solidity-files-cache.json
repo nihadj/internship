@@ -1,0 +1,38 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Nihad Jamadar\\Desktop\\Dapp_Dev\\hardhat_tut\\contracts\\Token.sol": {
+      "lastModificationDate": 1647867289826,
+      "contentHash": "e8ae017850aa37a704a308d70cd6fe28",
+      "sourceName": "contracts/Token.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [],
+      "artifacts": [
+        "Token"
+      ]
+    }
+  }
+}
